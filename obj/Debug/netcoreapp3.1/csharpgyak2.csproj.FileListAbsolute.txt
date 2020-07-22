@@ -1,0 +1,13 @@
+C:\Users\a2c57g\source\repos\csharpgyak2\bin\Debug\netcoreapp3.1\csharpgyak2.exe
+C:\Users\a2c57g\source\repos\csharpgyak2\bin\Debug\netcoreapp3.1\csharpgyak2.deps.json
+C:\Users\a2c57g\source\repos\csharpgyak2\bin\Debug\netcoreapp3.1\csharpgyak2.runtimeconfig.json
+C:\Users\a2c57g\source\repos\csharpgyak2\bin\Debug\netcoreapp3.1\csharpgyak2.runtimeconfig.dev.json
+C:\Users\a2c57g\source\repos\csharpgyak2\bin\Debug\netcoreapp3.1\csharpgyak2.dll
+C:\Users\a2c57g\source\repos\csharpgyak2\bin\Debug\netcoreapp3.1\csharpgyak2.pdb
+C:\Users\a2c57g\source\repos\csharpgyak2\obj\Debug\netcoreapp3.1\csharpgyak2.csproj.CoreCompileInputs.cache
+C:\Users\a2c57g\source\repos\csharpgyak2\obj\Debug\netcoreapp3.1\csharpgyak2.AssemblyInfoInputs.cache
+C:\Users\a2c57g\source\repos\csharpgyak2\obj\Debug\netcoreapp3.1\csharpgyak2.AssemblyInfo.cs
+C:\Users\a2c57g\source\repos\csharpgyak2\obj\Debug\netcoreapp3.1\csharpgyak2.dll
+C:\Users\a2c57g\source\repos\csharpgyak2\obj\Debug\netcoreapp3.1\csharpgyak2.pdb
+C:\Users\a2c57g\source\repos\csharpgyak2\obj\Debug\netcoreapp3.1\csharpgyak2.genruntimeconfig.cache
+C:\Users\a2c57g\source\repos\csharpgyak2\obj\Debug\netcoreapp3.1\csharpgyak2.csprojAssemblyReference.cache
